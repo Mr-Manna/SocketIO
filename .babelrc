@@ -1,0 +1,6 @@
+{
+    "packages":[
+        "env",
+        "stage-0"
+    ]
+}
